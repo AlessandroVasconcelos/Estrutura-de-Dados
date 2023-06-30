@@ -1,7 +1,11 @@
 # Estrutura de Dados - UVA.
 
 ## Ementa:
-Introdução aos conceitos de estrutura de dados. Técnicas de alocação de memória. Estruturas lineares (listas, pilhas e filas). Estruturas hierárquicas (árvores). Grafos. Práticas de laboratório.
+- Introdução aos conceitos de estrutura de dados.
+- Técnicas de alocação de memória. Estruturas lineares (listas, pilhas e filas).
+- Estruturas hierárquicas (árvores).
+- Grafos.
+- Práticas de laboratório.
 
 ## Professor:
 Paulo Regis Menezes Sousa.
