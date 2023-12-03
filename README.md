@@ -1,4 +1,4 @@
-# Estrutura de Dados - UVA.
+# Estrutura de Dados - Ciências da Computação - UVA.
 
 ## Ementa:
 - Introdução aos conceitos de estrutura de dados.
