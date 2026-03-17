@@ -1,16 +1,17 @@
-# Estrutura de Dados - Ciências da Computação - UVA
+# Estrutura de Dados
+Este repositório contém as implementações, exercícios e práticas de laboratório desenvolvidos durante a disciplina de Estrutura de Dados do curso de Ciência da Computação na Universidade Estadual Vale do Acaraú (UVA).
 
-## Ementa:
+## 📌 Ementa:
 - Introdução aos conceitos de estrutura de dados.
 - Técnicas de alocação de memória. Estruturas lineares (listas, pilhas e filas).
 - Estruturas hierárquicas (árvores).
 - Grafos.
 - Práticas de laboratório.
 
-## Professor:
+## 👨‍🏫 Professor:
 Paulo Regis Menezes Sousa.
 
-## Bibliografia Básica:
+## 📚 Bibliografia Básica:
 1. CORMEN, T. H, et al. Algoritmos: Teoria e Prática. 2. ed. Editora Campus, 2002.
 2. WIRTH, N. Algoritmos e estruturas de dados. Rio de Janeiro: Prentice Hall, 1998.
 3. PEREIRA, Silvio Do Lago. Estruturas de dados em C: Uma abordagem didática. Saraiva Educação SA, 2015.
